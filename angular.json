@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -124,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "fundacion"
+  "defaultProject": "fundacion",
+  "cli": {
+    "analytics": "50d0f05f-f6e9-4517-b660-9b9a3cbc62e4"
+  }
 }
